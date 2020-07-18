@@ -10,10 +10,10 @@
 
 이 </> 는 ❤로 제작된 Create React App 이용한 프로젝트입니다.
 
-Copyright 2020. HanSeo. All rights reserved.
-
 ### Contact
 
 - Github Repo Issue
 - Discord: HanSeo#0507
 - Email: i_hansu_oo@naver.com
+
+#### Copyright 2020. HanSeo. All rights reserved.
