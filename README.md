@@ -13,7 +13,5 @@
 ### Contact
 
 - Github Repo Issue
-- Discord: HanSeo#0507
-- Email: i_hansu_oo@naver.com
 
 #### Copyright 2020. HanSeo. All rights reserved.
